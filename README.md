@@ -25,4 +25,4 @@ Inscripto en Licenciatura en Sistemas 2023
 - Facilidad para dispositivos digitales
 
 ## Datos de contacto
-### Correo: nicodg0205@gmail.com
+Correo: nicodg0205@gmail.com
