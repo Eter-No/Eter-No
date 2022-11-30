@@ -1,19 +1,28 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**Eter-No/Eter-No** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mi
+Soy una persona creativa, simpática y carismática, con buenas capacidades para establecer relaciones interpersonales. Soy bueno trabajando tanto en equipo como individualmente y me adapto rápido a los cambios.
 
-Here are some ideas to get you started:
+## Estudios
+### Instituto Enrique de Ossó
+Secundario completo 2022
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### UNab Sede Esteban Echeverría 2022
+- Curso RCP básico para para adultos, niños y lactantes
+- Curso GIT
+- Curso Excel: Formulas y Funciones
 
+### Universidad Nacional de Lanús
+Inscripto en Licenciatura en Sistemas 2023
 
-theme: minima
+## Habilidades
+- Buena comunicación
+- Paciencia
+- Creatividad
+- Organización
+- Actitud positiva
+- Excel
+- Facilidad para dispositivos digitales
+
+## Datos de contacto
+### Correo: nicodg0205@gmail.com
