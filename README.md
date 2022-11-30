@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## Sobre mi
-Soy una persona creativa, simpática y carismática, con buenas capacidades para establecer relaciones interpersonales. Soy bueno trabajando tanto en equipo como individualmente y me adapto rápido a los cambios.
+Me llamo Nicolás González, tengo 17 años. Soy una persona creativa, simpática y carismática, con buenas capacidades para establecer relaciones interpersonales. Soy bueno trabajando tanto en equipo como individualmente y me adapto rápido a los cambios. 
 
 ## Estudios
 ### Instituto Enrique de Ossó
