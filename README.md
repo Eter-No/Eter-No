@@ -19,10 +19,11 @@ Inscripto en Licenciatura en Sistemas 2023
 - Buena comunicación
 - Paciencia
 - Creatividad
+- Análisis 
 - Organización
 - Actitud positiva
 - Excel
-- Facilidad para dispositivos digitales
+- Facilidad con la tecnología
 
 ## Datos de contacto
 Correo: nicodg0205@gmail.com
